@@ -1,2 +1,2 @@
 # supercode
-to store some texts
+高性能计算应用实践课程仓库
